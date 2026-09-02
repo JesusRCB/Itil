@@ -52,7 +52,7 @@ Creamos nuestra segunda máquina virtual con Ubuntu, con la que realizaremos nue
 
 ![Segunda máquina virtual con Ubuntu](imagenes/image8.png)
 
-Configuramos el puerto 80 para que pudiéramos acceder.
+Configuramos el puerto 80 para que pudiéramos acceder, creamos la configuración de nuestra red vitual http y con el puerto 80.
 
 ![Configuración del puerto 80](imagenes/image9.png)
 
